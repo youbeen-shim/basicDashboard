@@ -1,3 +1,3 @@
 export default function Page() {
-    return <p>Exclusive Page</p>;
+    return <p>Exclusive Pages</p>;
   }
